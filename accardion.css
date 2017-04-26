@@ -1,0 +1,19 @@
+.accardion{
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+.accardion:hover{
+    background-color: #ddd;
+}
+.panel{
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+}
